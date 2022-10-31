@@ -1,6 +1,7 @@
-/* project colors */
+/* project variables */
 :root {
     --syt-primary-color: #252533;
     --syt-secondary-color: #00ffc3;
     --syt-white-color: #ffffff;
+    --syt-default-font: 'Poppins', sans-serif;
 }
